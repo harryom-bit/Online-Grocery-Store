@@ -3,3 +3,12 @@ The Online Grocery Store System, OGSS, developed to give grocery businesses a de
 
 ## Technologies Used
 Hibernate, Spring, Java, Log4J, HTML, CSS, Angular, JavaScript, SQL
+
+## Features
+Add the product to cart.
+Remove the product from the cart.
+See all the added products in the cart.
+Check out from the cart.
+
+### to do list
+Will have to add Admin.
