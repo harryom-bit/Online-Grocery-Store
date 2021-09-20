@@ -13,6 +13,9 @@ Check out from the cart.
 ### to do list
 Will have to add Admin.
 
+## Getting Started
+| <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavatutorial.net%2Frun-tomcat-from-eclipse&psig=AOvVaw1SGH04W2oNPmBws40LY41S&ust=1632206466602000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCfpoj5jPMCFQAAAAAdAAAAABAD" width="250">|
+
 ## Usage
-Add all the dependencies, right click and run your project on tomcat server, once the project is started open the url and write localhost:8080, back-end code will run on this url.
+open the project on eclipse API. Add all the dependencies, right click and run your project on tomcat server, once the project is started open the url and write localhost:8080, back-end code will run on this url.
 Now to run the project on front-end, first import your code vs-studio or notepad execute the project in the command line interface by writing the command ng serve, this will open the project on web server from where all the functionalities can be accessed and used.
