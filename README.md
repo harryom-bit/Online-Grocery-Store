@@ -13,8 +13,6 @@ Check out from the cart.
 ### to do list
 Will have to add Admin.
 
-## Getting Started
-| <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavatutorial.net%2Frun-tomcat-from-eclipse&psig=AOvVaw1SGH04W2oNPmBws40LY41S&ust=1632206466602000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCfpoj5jPMCFQAAAAAdAAAAABAD" width="250">|
 
 ## Usage
 open the project on eclipse API. Add all the dependencies, right click and run your project on tomcat server, once the project is started open the url and write localhost:8080, back-end code will run on this url.
